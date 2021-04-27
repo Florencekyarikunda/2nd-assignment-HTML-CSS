@@ -1,0 +1,27 @@
+        body {
+            background-color: orange;
+            padding: 40px;
+            margin: 40px;
+            border: 40px;
+        }
+        
+        h1 {
+            color: blue;
+            padding: 20px;
+            text-align: center;
+            font-size: 20px;
+        }
+        
+        h2 {
+            font-size: 40px;
+        }
+        
+        .MYBOXMODEL {
+            padding: 20px;
+            margin: 20px;
+            border: 20px solid #eee
+        }
+        
+        .MYBOXMODEL {
+            background-color: blue;
+        }
